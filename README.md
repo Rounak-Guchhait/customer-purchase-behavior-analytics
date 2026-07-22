@@ -2,7 +2,7 @@
 
 > **An end-to-end data analytics project that transforms raw customer shopping data into actionable business insights using Python, SQL, and Power BI.**
 
-This project explores customer purchasing behavior by performing data cleaning in Python, business analysis in SQL, and interactive dashboard development in Power BI. The analysis helps identify customer demographics, purchasing trends, product preferences, and sales patterns to support data-driven business decisions.
+This  explores customer purchasing behavior by performing data cleaning in Python, business analysis in SQL, and interactive dashboard development in Power BI. The analysis helps identify customer demographics, purchasing trends, product preferences, and sales patterns to support data-driven business decisions.
 
 ---
 
