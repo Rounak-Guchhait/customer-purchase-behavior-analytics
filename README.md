@@ -6,16 +6,6 @@ This project explores customer purchasing behavior by performing data cleaning i
 
 ---
 
-## Dashboard Preview
-
-> **Interactive Power BI Dashboard**
-
-<p align="center">
-  <img src="Customer%20Behavior%20Dashboard.png" alt="Customer Behavior Dashboard" width="100%">
-</p>
-
----
-
 # Project Overview
 
 Retail businesses generate thousands of customer transactions every day. Understanding who customers are, what they buy, how frequently they purchase, and which products perform best enables organizations to make informed marketing and sales decisions.
@@ -133,6 +123,16 @@ The interactive dashboard provides an executive-level overview of customer purch
 * Purchase Frequency
 * Interactive Filters (Slicers)
 * KPIs
+
+---
+
+## Dashboard Preview
+
+> **Interactive Power BI Dashboard**
+
+<p align="center">
+  <img src="Customer%20Behavior%20Dashboard.png" alt="Customer Behavior Dashboard" width="100%">
+</p>
 
 ---
 
