@@ -60,6 +60,8 @@ The dataset contains customer demographic information, purchasing history, produ
 
 * **Power BI**
 
+  * DAX
+
 ---
 
 # Project Workflow
