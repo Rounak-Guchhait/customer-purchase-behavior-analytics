@@ -132,6 +132,7 @@ The interactive dashboard provides an executive-level overview of customer purch
 * Geographic Analysis
 * Purchase Frequency
 * Interactive Filters (Slicers)
+* KPIs
 
 ---
 
@@ -142,7 +143,6 @@ The dashboard enables stakeholders to identify:
 * Customer segments contributing the most purchases
 * High-performing product categories
 * Regional purchasing trends
-* Preferred payment methods
 * Seasonal shopping behavior
 * Subscription vs. non-subscription purchasing patterns
 * Customer purchase frequency distribution
@@ -202,34 +202,6 @@ This project demonstrates how raw customer transaction data can be transformed i
 
 ---
 
-# Future Improvements
-
-* Build customer segmentation using clustering techniques
-* Add predictive analytics for customer purchasing behavior
-* Connect Power BI to a live SQL database
-* Automate data refresh pipelines
-* Publish the dashboard to the Power BI Service
-
----
-
 # Author
 
 **Rounak Guchhait**
-
-* Aspiring Data Analyst
-* Skilled in SQL, Python, Power BI, and Excel
-
----
-
-## Why this README is stronger than a typical one
-
-Compared to a basic README, this version:
-
-* Starts with a clear value proposition.
-* Reads like a business analytics project rather than a college assignment.
-* Emphasizes the end-to-end workflow (Python → SQL → Power BI).
-* Highlights business objectives and insights instead of just listing files.
-* Uses concise sections that recruiters can scan in under a minute.
-* Avoids exaggerated claims or fabricated metrics while still presenting the project professionally.
-
-This is the style commonly seen in strong GitHub portfolios for entry-level Data Analyst roles.
