@@ -6,7 +6,7 @@ This project explores customer purchasing behavior by performing data cleaning i
 
 ---
 
-## Dashboard Preview
+# Dashboard Preview
 
 > **Interactive Power BI Dashboard**
 
